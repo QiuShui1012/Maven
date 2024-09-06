@@ -1,0 +1,130 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "zh.qiushui.mod",
+    "module": "zakuro",
+    "version": "1.0.1.2+1.20.1",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.8"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 17,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "zakuro-1.0.1.2+1.20.1.jar",
+          "url": "zakuro-1.0.1.2+1.20.1.jar",
+          "size": 744196,
+          "sha512": "e72ecacaae65ea895055ce6f9153f99aad254d662ba4e594674909d26b7b9ce58c78dd2cab73d584b2cf5b1153ac52dca08ffa802c78b652895d3c0a0d4be916",
+          "sha256": "2542d20cac87482607bf11012c794954ba79ad11a2ef3f206452e2a401c0a950",
+          "sha1": "fc8b3d88f3148c27f82585e1792fd28e198a8996",
+          "md5": "6384f3bd921411741ca01cef6f6b00f4"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 17,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "org.jsoup",
+          "module": "jsoup",
+          "version": {
+            "requires": "1.18.1"
+          }
+        },
+        {
+          "group": "net.fabricmc",
+          "module": "fabric-loader",
+          "version": {
+            "requires": "0.15.11"
+          }
+        },
+        {
+          "group": "net.fabricmc.fabric-api",
+          "module": "fabric-api",
+          "version": {
+            "requires": "0.92.2+1.20.1"
+          }
+        },
+        {
+          "group": "zh.qiushui.mod",
+          "module": "core-lib",
+          "version": {
+            "requires": "1.0.1.5+1.20.1"
+          }
+        },
+        {
+          "group": "com.terraformersmc",
+          "module": "modmenu",
+          "version": {
+            "requires": "7.2.2"
+          }
+        },
+        {
+          "group": "me.shedaniel.cloth",
+          "module": "cloth-config-fabric",
+          "version": {
+            "requires": "11.1.118"
+          },
+          "excludes": [
+            {
+              "group": "net.fabricmc.fabric-api",
+              "module": "*"
+            }
+          ]
+        }
+      ],
+      "files": [
+        {
+          "name": "zakuro-1.0.1.2+1.20.1.jar",
+          "url": "zakuro-1.0.1.2+1.20.1.jar",
+          "size": 744196,
+          "sha512": "e72ecacaae65ea895055ce6f9153f99aad254d662ba4e594674909d26b7b9ce58c78dd2cab73d584b2cf5b1153ac52dca08ffa802c78b652895d3c0a0d4be916",
+          "sha256": "2542d20cac87482607bf11012c794954ba79ad11a2ef3f206452e2a401c0a950",
+          "sha1": "fc8b3d88f3148c27f82585e1792fd28e198a8996",
+          "md5": "6384f3bd921411741ca01cef6f6b00f4"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "zakuro-1.0.1.2+1.20.1-sources.jar",
+          "url": "zakuro-1.0.1.2+1.20.1-sources.jar",
+          "size": 300679,
+          "sha512": "359f6cc60fec460715bb6e8a6f37caad3a8f16ae7b790d8b9d1a41974217a3918d7b0c49e3360d539386efd46640e6d2ece8f80680aabf8b7c1c68edfbb41a84",
+          "sha256": "89fcf58d8fb1a0b6fc689b55e25d9ff11e48b5308a3b8705892d10e0a59fd58a",
+          "sha1": "ae0977400f97d914fb65cdec687a8e61fcb5f3ce",
+          "md5": "2355bb5cee391a3908f89700887c4714"
+        }
+      ]
+    }
+  ]
+}
