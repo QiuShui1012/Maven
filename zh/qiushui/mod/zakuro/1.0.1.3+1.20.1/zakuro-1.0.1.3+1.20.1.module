@@ -27,11 +27,11 @@
         {
           "name": "zakuro-1.0.1.3+1.20.1.jar",
           "url": "zakuro-1.0.1.3+1.20.1.jar",
-          "size": 754493,
-          "sha512": "f274cb5c086d5e5e646768e82e7c08478ad02ce74d5631ec13bfcaa5cf0a5e94978073bdd46c5c0fb211030f7e3e616688a89caa894b80d9c60882a218b8c4fa",
-          "sha256": "4279893a2742ac043518a2234d220ff99a4979ba54d3837b48d04458d6357661",
-          "sha1": "e3aefacb9d46808d5f725dc115da6e3f2e8ddb9c",
-          "md5": "489640993aaac61f499854da6152a2b6"
+          "size": 766207,
+          "sha512": "3ecf0be9d6c006ff86068cc119d59db84c3831c983fc942721ed936d9fa2014ab75663a7e8fd3fe8bd0d6b868785b488f7d67570476fe4fdd07a778732d3f139",
+          "sha256": "cd5e65e7a8b49e3d406b11e40f6f4c7a6e3443086f984cfd41e096ef90c3152b",
+          "sha1": "94a79e13f25e52f87f8deb2e3d9c832e07eb311b",
+          "md5": "e78446fdd23b0170cd5b313753b4a5e5"
         }
       ]
     },
@@ -98,11 +98,11 @@
         {
           "name": "zakuro-1.0.1.3+1.20.1.jar",
           "url": "zakuro-1.0.1.3+1.20.1.jar",
-          "size": 754493,
-          "sha512": "f274cb5c086d5e5e646768e82e7c08478ad02ce74d5631ec13bfcaa5cf0a5e94978073bdd46c5c0fb211030f7e3e616688a89caa894b80d9c60882a218b8c4fa",
-          "sha256": "4279893a2742ac043518a2234d220ff99a4979ba54d3837b48d04458d6357661",
-          "sha1": "e3aefacb9d46808d5f725dc115da6e3f2e8ddb9c",
-          "md5": "489640993aaac61f499854da6152a2b6"
+          "size": 766207,
+          "sha512": "3ecf0be9d6c006ff86068cc119d59db84c3831c983fc942721ed936d9fa2014ab75663a7e8fd3fe8bd0d6b868785b488f7d67570476fe4fdd07a778732d3f139",
+          "sha256": "cd5e65e7a8b49e3d406b11e40f6f4c7a6e3443086f984cfd41e096ef90c3152b",
+          "sha1": "94a79e13f25e52f87f8deb2e3d9c832e07eb311b",
+          "md5": "e78446fdd23b0170cd5b313753b4a5e5"
         }
       ]
     },
@@ -118,11 +118,11 @@
         {
           "name": "zakuro-1.0.1.3+1.20.1-sources.jar",
           "url": "zakuro-1.0.1.3+1.20.1-sources.jar",
-          "size": 306850,
-          "sha512": "498cc3d2c3409a3b7e77e8b8d07118d991ad6cfba2ca38ff4d4ce5be376b08029a5afcc55e23a87dbe46ec482b491ed2db8fb08827b5c2cee459f574f1d154a3",
-          "sha256": "3604c9023beb019ccaf4ef7039b62cc1d28cc4d1dd8137713f8c7ca6cf3218ed",
-          "sha1": "306231e199120f277862bc05c70f11b8e5185ec2",
-          "md5": "c2d8b710ba992b94291cad7c0f23dfcd"
+          "size": 317773,
+          "sha512": "1b73c838194f535f93099c5fc1c2c7d4367b52c5764c6f46407c673e3d831222499684641b7e6f9a245589339a21fc4f557d3cf31dc39025d9a93590d1ef1ff5",
+          "sha256": "58889f500e92ee94a39418be8bdb766cd550d4e66b5f2e1bc4330f91b84fc128",
+          "sha1": "09f7bfb60814f80236f49a5b5d6476b9634f727e",
+          "md5": "41e10464fdf0b552281821490d532f5d"
         }
       ]
     }
