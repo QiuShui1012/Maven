@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>me.shedaniel.cloth</groupId>
+  <artifactId>cloth-config-zakuroed-fabric</artifactId>
+  <version>11.1.119</version>
+  <dependencies>
+    <dependency>
+      <groupId>net.fabricmc</groupId>
+      <artifactId>fabric-loader</artifactId>
+      <version>0.14.21</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>net.fabricmc.fabric-api</groupId>
+      <artifactId>fabric-api</artifactId>
+      <version>0.83.0+1.20</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>me.shedaniel.cloth</groupId>
+      <artifactId>basic-math</artifactId>
+      <version>0.6.1</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>com.moandjiezana.toml</groupId>
+      <artifactId>toml4j</artifactId>
+      <version>0.7.2</version>
+      <scope>runtime</scope>
+    </dependency>
+  </dependencies>
+</project>
