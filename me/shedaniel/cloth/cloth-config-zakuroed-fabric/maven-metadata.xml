@@ -3,12 +3,13 @@
   <groupId>me.shedaniel.cloth</groupId>
   <artifactId>cloth-config-zakuroed-fabric</artifactId>
   <versioning>
-    <latest>11.1.119</latest>
-    <release>11.1.119</release>
+    <latest>11.1.119-hotfix</latest>
+    <release>11.1.119-hotfix</release>
     <versions>
       <version>11.1.118-zakuroed</version>
       <version>11.1.119</version>
+      <version>11.1.119-hotfix</version>
     </versions>
-    <lastUpdated>20240914141357</lastUpdated>
+    <lastUpdated>20240914142648</lastUpdated>
   </versioning>
 </metadata>
